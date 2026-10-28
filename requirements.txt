@@ -1,0 +1,21 @@
+# Core (ERNIE, DeBERTa, T5, distant pretraining, data augmentation)
+torch
+tensorflow
+transformers
+datasets
+sentencepiece
+scikit-learn
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+tqdm
+optuna
+
+# BABE reference notebooks (feature-based baseline and dataset evaluation)
+xgboost
+spacy
+scikit-plot
+statsmodels
+krippendorff
